@@ -35,21 +35,35 @@ OR open the notebook in Google Colab.
 🚀 Model Training
 The following ML models are used:
 
-Logistic Regression
-
-Decision Tree
-
-Random Forest
-
-Support Vector Machine (SVM)
+Logistic Regression, Decision Tree, Random Forest, Support Vector Machine (SVM)
 
 Model Evaluation
 
-Model	                  Accuracy	   Precision	   Recall	      F1-Score
-Logistic Regression     	1.00	      1.00	        1.00	        1.00
-Decision Tree           	1.00       	1.00        	1.00	        1.00
-Random Forest	            1.00	      1.00	        1.00	        1.00
-SVM	                      0.988      	1.00	        0.971	        0.985
+Model	 
+
+Logistic Regression     	 
+Accuracy:1.00	     
+Precision:1.00	      
+Recall:1.00	        
+F1-Score:1.00
+
+Decision Tree           
+Accuracy:1.00        
+Precision:1.00       
+Recall:1.00	    
+F1-Score:1.00
+
+Random Forest	         
+Accuracy: 1.00	     
+Precision:1.00	    
+Recall:1.00	     
+F1-Score:1.00
+
+SVM	                     
+Accuracy: 0.988     
+Precision:1.00	     
+Recall:0.971	       
+F1-Score:0.985
 
 Random Forest, Decision Tree, and Logistic Regression performed perfectly, achieving 100% accuracy on the test set.
 
@@ -59,6 +73,8 @@ Confusion Matrix
 
 
 🔎 Visualizations
+
+Correlation Heatmap
 
 Countplot:Survival Count Distribution
 
